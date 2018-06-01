@@ -1,3 +1,6 @@
 [submodule "Assignment1"]
 	path = Assignment1
 	url = ./Assignments/Assignment1
+[submodule "Assignments/Assignment1"]
+	path = Assignments/Assignment1
+	url = https://github.com/ugokwehenry/Assignments.git
