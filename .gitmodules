@@ -8,3 +8,6 @@
 [submodule "Assignment3"]
 	path = Assignment3
 	url = https://github.com/ugokwehenry/Assignment3.git
+[submodule "Assignment4"]
+	path = Assignment4
+	url = https://github.com/ugokwehenry/Assignment4.git
